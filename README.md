@@ -1,2 +1,3 @@
 # Hello-world
 following the instructions...
+I'm currently teaching myself Python coding with the ambition to change careers into coding.
